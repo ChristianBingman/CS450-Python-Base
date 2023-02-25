@@ -1,11 +1,12 @@
 # Base Python 3.6 for UIC CS450
 
-> This repo includes pycodestyle and pyline
+> This repo includes pycodestyle, pylint, and requests
 
 ## Usage
 
 1. Code! Make sure to name your start file app.py in the src folder
 2. Run `./buildtest.sh`
+    - You can also run `./buildtest.sh some-other-python-file.py`
 
 ## Features
 
